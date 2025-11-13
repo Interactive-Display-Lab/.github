@@ -12,7 +12,7 @@ To support both open demonstration efforts and internal collaboration, this orga
 
 ### 🔓 Public Repositories
 These contain open-access demo files, reference implementations, and research artifacts that the lab publishes for the broader community.
-They but may not necessarily be licensed for unrestricted reuse. Please check the license file of each repository.
+But they may not necessarily be licensed for unrestricted reuse. Please check the license file of each repository.
 
 ### 🔐 Private Repositories
 These are shared among lab members for projects that involve overlapping infrastructure, prototype firmware, shared toolchains, and reusable skeleton code.
