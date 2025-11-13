@@ -6,3 +6,14 @@ Our lab is housed on the third floor of the state-of-the art $95M and 230,000 sq
 ## Contact
 For general inquiries, please contact:
 info@interactivedisplaylab.com 
+
+## Repository Structure
+To support both open demonstration efforts and internal collaboration, this organization maintains two types of repositories:
+
+### 🔓 Public Repositories
+These contain open-access demo files, reference implementations, and research artifacts that the lab publishes for the broader community.
+They but may not necessarily be licensed for unrestricted reuse. Please check the license file of each repository.
+
+### 🔐 Private Repositories
+These are shared among lab members for projects that involve overlapping infrastructure, prototype firmware, shared toolchains, and reusable skeleton code.
+They serve as collaborative spaces for in-progress research, shared experimental pipelines, and internal documentation.
